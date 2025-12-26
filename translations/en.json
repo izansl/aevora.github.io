@@ -188,7 +188,7 @@
     },
     "amanecer": {
       "title": "The Dawn of a New Era",
-      "nueva-era": {
+      "era": {
         "title": "The Dawn of a New Era",
         "content_1": "The early morning of 22 October 1868 found England immersed in a strange, almost unnatural silence. The smoke still rising from the charred remains of several London buildings mingled with a thick fog that obscured the rooftops. It was a grey, heavy dawn, as if the city itself were holding its breath, waiting to be redefined.",
         "content_2": "At that early hour, the first official communiqués began to circulate. The newspapers under the control of House Ashmere were already printed even before the majority of citizens had left their homes. Their headlines left no room for uncertainty: the events of the previous night were described as \"the necessary purge for a new rebirth\". The population, exhausted by weeks of chaos, barely had the strength to question it; they accepted the explanation as a refuge from the bewilderment.",
@@ -220,13 +220,15 @@
         "content_9": "\"I expected nothing less from you, brother,\" said Norland, his voice controlled, barely a metallic whisper. \"Sentimentality was inevitable; you were always too weak, too human.\"",
         "content_10": "Eldric raised his gaze, studying him with a mixture of sadness and lucidity.",
         "content_11": "\"And what are you now, Norland?\" he asked without raising his voice. \"You traded flesh for metal, soul for calculation. You believe you have built an empire, but what you have erected is a prison. And in it, even the gaolers fear to breathe.\"",
-        "content_12": "\"Prisons are necessary when the whole world is a mutiny,\" he replied, stepping one step closer. \"That is the difference between you and me, Eldric. Whilst you dreamt of a perfect liberty, I calculated the price of order.\"",
-        "content_13": "The chains surrounding Eldric's wrists tinkled when he attempted to straighten up.",
-        "content_14": "\"You cannot dominate man forever,\" he replied firmly. \"I do not intend to dominate him,\" answered Norland, stopping right in front of him. \"I intend to perfect him. The Aevar is not just a mineral; it is evolution. But you... you chose to remain in the past.\"",
-        "content_15": "Then a prolonged, cutting silence fell, as if the entire room awaited the outcome. Neither looked away. The glow of the Aevar reflected in both a frozen, impersonal hue, as if the mineral itself were attending the final break between blood and ambition.",
-        "content_16": "Finally, Norland turned towards the guard waiting at the entrance. His voice was a simple dictation, devoid of any emotion:",
-        "content_17": "\"Ensure he is prepared for dawn. Let history learn what happens to those who confuse freedom with weakness.\"",
-        "content_18": "The words remained suspended in the air long after Norland left the room. Eldric did not attempt to call out, nor shout, nor beg. He only let the light of the Aevar illuminate his face as he assumed the fate that awaited at the end of that windowless night. The fracture between the brothers was consummated. And with it, the Empire had just sealed the final piece of its new identity."
+        "content_12": "Norland gave a smile that didn't reach his eyes.",
+        "content_13": "\"Prisons are necessary when the whole world is a mutiny,\" he replied, stepping one step closer. \"That is the difference between you and me, Eldric. Whilst you dreamt of a perfect liberty, I calculated the price of order.\"",
+        "content_14": "The chains surrounding Eldric's wrists tinkled when he attempted to straighten up.",
+        "content_15": "\"You cannot dominate man forever,\" he replied firmly.", 
+        "content_16": "\"I do not intend to dominate him,\" answered Norland, stopping right in front of him. \"I intend to perfect him. The Aevar is not just a mineral; it is evolution. But you... you chose to remain in the past.\"",
+        "content_17": "Then a prolonged, cutting silence fell, as if the entire room awaited the outcome. Neither looked away. The glow of the Aevar reflected in both a frozen, impersonal hue, as if the mineral itself were attending the final break between blood and ambition.",
+        "content_18": "Finally, Norland turned towards the guard waiting at the entrance. His voice was a simple dictation, devoid of any emotion:",
+        "content_19": "\"Ensure he is prepared for dawn. Let history learn what happens to those who confuse freedom with weakness.\"",
+        "content_20": "The words remained suspended in the air long after Norland left the room. Eldric did not attempt to call out, nor shout, nor beg. He only let the light of the Aevar illuminate his face as he assumed the fate that awaited at the end of that windowless night. The fracture between the brothers was consummated. And with it, the Empire had just sealed the final piece of its new identity."
       },
       "sacrificio": {
         "title": "A Sacrifice to Build an Empire",
@@ -730,18 +732,26 @@
       "intro_p3": "Each Norland Knight possesses a unique Guardian Mark IV, a masterpiece of engineering custom-made for them. They operate on missions where failure is not an option: strategic assassinations, elimination of internal threats, conquest of impossible objectives. Their mere presence on a front means that the Emperor's eye is upon that battle, and his will is about to prevail. They are the final embodiment of Aevorian power: absolute efficiency at the service of an iron will.",
       "rangos": {
         "title": "Ranks",
-        "content_1": "1. The Silver Hand: Supreme leader of the Norland Knights and direct representative of the Emperor. Acts as the ultimate authority within the corps and oversees both internal operations and the execution of imperial orders. Their real identity and house of origin remain classified information for reasons of strategic security.",
-        "content_2": "2. Information Classified.",
-        "content_3": "3. Information Classified.",
-        "content_4": "4. Information Classified.",
-        "content_5": "5. Information Classified.",
-        "content_6": "6. Sir Cassian Lovelace: Heir to House Lovelace. Specialist in covert operations and the surgical elimination of threats. His role within the corps focusses on infiltration, obtaining sensitive intelligence, and neutralising priority targets.",
-        "content_7": "7. Sir Magnus Pelwright: Heir to House Pelwright. Specialist in chemical weaponry and advanced manipulation of Aevar. Supervises projects related to experimental weapons and biological containment protocols.",
-        "content_8": "8. Sir Seraphina Hale: Origin unknown. Specialist in siege weaponry and the tactical deployment of heavy artillery. Her Guardian is adapted for prolonged operations and long-duration attacks. Principal coordinator of siege troops.",
-        "content_9": "9. Sir Kael Moss: Head of a minor house in service to the Cunards. Specialist in maritime combat, naval manoeuvres, and deployment in oceanic scenarios. Principal coordinator of the imperial fleets.",
-        "content_10": "10. Sir Oliviere Armstrong: The youngest of the Armstrong family and the most recent addition. Specialist in ground weaponry and heavy mechanised infantry tactics.",
-        "content_11": "11. Sir Violet Wryn: Heir to House Wryn, historically subordinate to House Lovelace. Specialist in close-quarters combat and direct engagement, considered one of the best duellists in the corps.",
-        "content_12": "12. Sir Donovan Vickers: The youngest member of the Vickers and the youngest amongst the Norland Knights. Specialist in long-range weaponry and precision systems."
+        "content_1": "1. The Silver Hand:",
+        "content_2": "Supreme leader of the Norland Knights and direct representative of the Emperor. Acts as the ultimate authority within the corps and oversees both internal operations and the execution of imperial orders. Their real identity and house of origin remain classified information for reasons of strategic security.",
+        "content_3": "2. Information Classified.",
+        "content_4": "3. Information Classified.",
+        "content_5": "4. Information Classified.",
+        "content_6": "5. Information Classified.",
+        "content_7": "6. Sir Cassian Lovelace:", 
+        "content_8": "Heir to House Lovelace. Specialist in covert operations and the surgical elimination of threats. His role within the corps focusses on infiltration, obtaining sensitive intelligence, and neutralising priority targets.",
+        "content_9": "7. Sir Magnus Pelwright:",
+        "content_10": "Heir to House Pelwright. Specialist in chemical weaponry and advanced manipulation of Aevar. Supervises projects related to experimental weapons and biological containment protocols.",
+        "content_11": "8. Sir Seraphina Hale:",
+        "contetn_12": "Origin unknown. Specialist in siege weaponry and the tactical deployment of heavy artillery. Her Guardian is adapted for prolonged operations and long-duration attacks. Principal coordinator of siege troops.",
+        "content_13": "9. Sir Kael Moss:",
+        "content_14": "Head of a minor house in service to the Cunards. Specialist in maritime combat, naval manoeuvres, and deployment in oceanic scenarios. Principal coordinator of the imperial fleets.",
+        "content_15": "10. Sir Oliviere Armstrong:",
+        "content_16": "The youngest of the Armstrong family and the most recent addition. Specialist in ground weaponry and heavy mechanised infantry tactics.",
+        "content_17": "11. Sir Violet Wryn:",
+        "content_18": "Heir to House Wryn, historically subordinate to House Lovelace. Specialist in close-quarters combat and direct engagement, considered one of the best duellists in the corps.",
+        "content_19": "12. Sir Donovan Vickers:",
+        "content_20": "The youngest member of the Vickers and the youngest amongst the Norland Knights. Specialist in long-range weaponry and precision systems."
       },
       "ascenso": {
         "title": "Ascent within the Corps",
@@ -758,6 +768,7 @@
           "intro": "It is the most dangerous and respected method, a controlled vestige of combat for power that reflects the Empire's philosophy of fierce competition. Any Norland Knight may challenge a direct superior to a \"Trial of Competence\".",
           "regla": "The challenge must be submitted in writing to the Silver Hand, specifying the disputed rank and the nature of the test. It cannot be capricious; it must be based on an alleged deficiency of the superior, such as lack of tactical skill, logistical inefficiency, or weakness in their speciality.",
           "tipos": {
+            "intro": "Types of Trial",
             "duelo": "Duel of Guardians: Combat in a testing ground. Victory demonstrates direct martial superiority.",
             "estrategia": "Strategic Test: The contenders are locked in simulation rooms and must solve a complex tactical scenario. Evaluates intellect and analytical coolness.",
             "voluntad": "Test of Will: Simultaneous and controlled exposure to critical levels of Aevar vapour, measuring physiological endurance and mental control. The first to falter or show signs of Marking loses."
@@ -781,7 +792,7 @@
           "content_3": "From the fifth highest rank upwards, a Knight not only executes orders but may be consulted in the planning of minor campaigns or special operations within their speciality. Their experience becomes a resource of the Imperial War Council.",
           "content_4": "The most feared and coveted privilege. The five highest-ranking Knights have the right to request a private audience with the Emperor Norland Reaventhorn, bypassing the Imperial Council and the bureaucracy of the Houses. It is access to the very source of power, a supreme vote of confidence that carries an equally supreme risk: wasting the Emperor's time is an error only committed once."
         },
-        "mano_plata": {
+        "mano": {
           "title": "Privileges of the Silver Hand",
           "content_1": "The absolute apex. This Knight has no benefits; they are the benefit personified. They speak and act with the Emperor's authority when ordered. They have unlimited access to any resource, any secret, any facility. They can mobilise entire armies and issue orders to the patriarchs of the Founding Houses in matters of imperial security. Their identity, hidden from all, is the Empire's most guarded mystery. Their privilege is to be Norland's will made flesh and steel.",
           "content_2": "As if this were not enough, the Silver Hand possesses another unique benefit: the Personal Dominion of a Fiefdom. They may choose, with Norland's final approval, any territory within imperial borders that is not the capital or a capital district of a Founding House. This territory becomes their personal fiefdom, free from the direct control of any House. There, their word is law. They can reorganise its economy, establish their own garrisons of Guardians loyal only to them, and direct production towards their personal projects or the Emperor's secret designs. It is a micro-empire within the Empire, a laboratory of power where the will of the Silver Hand is tested without intermediaries. This fiefdom is not hereditary; it is an extension of their office. Upon their death or dismissal, the territory and its assets are reabsorbed by the Imperial Crown, purged, and reassigned."

@@ -220,13 +220,15 @@
         "content_9": "“No esperaba menos de ti, hermano” dijo Norland, su voz controlada, apenas un susurro metálico. “El sentimentalismo era inevitable; siempre fuiste demasiado débil, demasiado humano.”",
         "content_10": "Eldric levantó la mirada, estudiándolo con una mezcla de tristeza y lucidez.",
         "content_11": "“¿Y tú qué eres ahora, Norland?” preguntó sin elevar la voz. “Cambiaste carne por metal, alma por cálculo. Crees que has construido un imperio, pero lo que has levantado es una prisión. Y en ella, incluso los carceleros temen respirar.”",
-        "content_12": "“Las prisiones son necesarias cuando el mundo entero es un motín”, respondió, acercándose un paso más”. “Esa es la diferencia entre tú y yo, Eldric. Mientras soñabas con una libertad perfecta, yo calculaba el precio del orden.”",
-        "content_13": "Las cadenas que rodeaban las muñecas de Eldric tintinearon cuando intentó incorporarse.",
-        "content_14": "“No pretendo dominarlo” contestó Norland, deteniéndose justo frente a él. “Pretendo perfeccionarlo. El Aevar no es solo un mineral; es la evolución. Pero tú… tú elegiste quedarte en el pasado.”",
-        "content_15": "Entonces cayó un silencio prolongado, cortante, como si la habitación entera esperara el desenlace. Ninguno apartó la mirada. El brillo del Aevar reflejaba en ambos un matiz helado, impersonal, como si el mineral mismo asistiera al quiebre final entre sangre y ambición.",
-        "content_16": "Finalmente, Norland se volvió hacia el guardia que aguardaba en la entrada. Su voz fue un simple dictado, sin emoción alguna:",
-        "content_17": "“Asegúrense de que esté preparado para el amanecer. Que la historia aprenda lo que ocurre con los que confunden libertad con debilidad.”",
-        "content_18": "Las palabras quedaron suspendidas en el aire mucho después de que Norland abandonara la sala. Eldric no intentó llamar, ni gritar, ni suplicar. Solo dejó que la luz del Aevar iluminara su rostro mientras asumía el destino que aguardaba al final de aquella noche sin ventanas. La fractura entre los hermanos estaba consumada. Y con ella, el Imperio acababa de sellar la pieza final de su nueva identidad."
+        "content_12": "Norland esbozó una sonrisa que no alcanzó sus ojos.",
+        "content_13": "“Las prisiones son necesarias cuando el mundo entero es un motín”, respondió, acercándose un paso más”. “Esa es la diferencia entre tú y yo, Eldric. Mientras soñabas con una libertad perfecta, yo calculaba el precio del orden.”",
+        "content_14": "Las cadenas que rodeaban las muñecas de Eldric tintinearon cuando intentó incorporarse.",
+        "content_15":"No puedes dominar al hombre para siempre” replicó con firmeza.",
+        "content_16": "“No pretendo dominarlo” contestó Norland, deteniéndose justo frente a él. “Pretendo perfeccionarlo. El Aevar no es solo un mineral; es la evolución. Pero tú… tú elegiste quedarte en el pasado.”",
+        "content_17": "Entonces cayó un silencio prolongado, cortante, como si la habitación entera esperara el desenlace. Ninguno apartó la mirada. El brillo del Aevar reflejaba en ambos un matiz helado, impersonal, como si el mineral mismo asistiera al quiebre final entre sangre y ambición.",
+        "content_18": "Finalmente, Norland se volvió hacia el guardia que aguardaba en la entrada. Su voz fue un simple dictado, sin emoción alguna:",
+        "content_19": "“Asegúrense de que esté preparado para el amanecer. Que la historia aprenda lo que ocurre con los que confunden libertad con debilidad.”",
+        "content_20": "Las palabras quedaron suspendidas en el aire mucho después de que Norland abandonara la sala. Eldric no intentó llamar, ni gritar, ni suplicar. Solo dejó que la luz del Aevar iluminara su rostro mientras asumía el destino que aguardaba al final de aquella noche sin ventanas. La fractura entre los hermanos estaba consumada. Y con ella, el Imperio acababa de sellar la pieza final de su nueva identidad."
       },
       "sacrificio": {
         "title": "Un Sacrificio para contruir un Imperio",
@@ -730,18 +732,26 @@
       "intro_p3": "Cada Norland Knight posee un Guardian Mark IV único, una obra maestra de la ingeniería fabricada a medida para él. Operan en misiones donde el fracaso no es una opción: asesinatos estratégicos, eliminación de amenazas internas, conquista de objetivos imposibles. Su mera presencia en un frente significa que el ojo del Emperador está sobre esa batalla, y su voluntad, a punto de imponerse. Son la encarnación final del poder aevoriano: eficiencia absoluta al servicio de una voluntad de hierro.",
       "rangos": {
         "title": "Rangos",
-        "content_1": "1. La Mano de Plata: Líder supremo de los Norland Knights y representante directo del Emperador. Actúa como autoridad máxima dentro del cuerpo y supervisa tanto las operaciones internas como la aplicación de órdenes imperiales. Su identidad real y su casa de procedencia se mantienen como información clasificada por razones de seguridad estratégica.",
-        "content_2": "2. Unknown",
-        "content_3": "3. Unknown",
-        "content_4": "4. Unknown",
-        "content_5": "5. Unknown",
-        "content_6": "6. Sir Cassian Lovelace: Heredero de la Casa Lovelace. Especialista en operaciones encubiertas y eliminación quirúrgica de amenazas. Su papel dentro del cuerpo se centra en la infiltración, la obtención de información sensible y la neutralización de objetivos prioritarios.",
-        "content_7": "7. Sir Magnus Pelwright: Heredero de la Casa Pelwright. Especialista en armamento químico y manipulación avanzada del Aevar. Supervisa proyectos relacionados con armas experimentales y protocolos de contención biológica.",
-        "content_8": "8. Sir Seraphina Hale: Procedencia desconocida. Especialista en armamento de asedio y despliegue táctico de artillería pesada. Su Guardian está adaptado para operaciones prolongadas y ataques de larga duración. Coordinadora principal de las tropas de asedio.",
-        "content_9": "9. Sir Kael Moss: Cabeza de una casa menor al servicio de los Cunard. Especialista en combate marítimo, maniobras navales y despliegue en escenarios oceánicos. Coordinador principal de las flotas imperiales.",
-        "content_10": "10. Sir Oliviere Armstrong: La menor de la familia Armstrong y la incorporación más reciente. Especialista en armamento terrestre y tácticas pesadas de infantería mecanizada.",
-        "content_11": "11. Sir Violet Wryn: Heredera de la Casa Wryn, históricamente subordinada a la Casa Lovelace. Especialista en combate cuerpo a cuerpo y enfrentamiento directo, siendo considerada una de las mejores duelistas del cuerpo.",
-        "content_12": "12. Sir Donovan Vickers: Miembro más joven de los Vickers y el más joven entre los Norland Knights. Especialista en armamento de larga distancia y sistemas de precisión."
+        "content_1": "1. La Mano de Plata:",
+        "content_2": " Líder supremo de los Norland Knights y representante directo del Emperador. Actúa como autoridad máxima dentro del cuerpo y supervisa tanto las operaciones internas como la aplicación de órdenes imperiales. Su identidad real y su casa de procedencia se mantienen como información clasificada por razones de seguridad estratégica.",
+        "content_3": "2. Unknown",
+        "content_4": "3. Unknown",
+        "content_5": "4. Unknown",
+        "content_6": "5. Unknown",
+        "content_7": "6. Sir Cassian Lovelace:",
+        "content_8": "Heredero de la Casa Lovelace. Especialista en operaciones encubiertas y eliminación quirúrgica de amenazas. Su papel dentro del cuerpo se centra en la infiltración, la obtención de información sensible y la neutralización de objetivos prioritarios.",
+        "content_9": "7. Sir Magnus Pelwright:",
+        "content_10": " Heredero de la Casa Pelwright. Especialista en armamento químico y manipulación avanzada del Aevar. Supervisa proyectos relacionados con armas experimentales y protocolos de contención biológica.",
+        "content_11": "8. Sir Seraphina Hale:",
+        "content_12": "Procedencia desconocida. Especialista en armamento de asedio y despliegue táctico de artillería pesada. Su Guardian está adaptado para operaciones prolongadas y ataques de larga duración. Coordinadora principal de las tropas de asedio.",
+        "content_13": "9. Sir Kael Moss:",
+        "content_14": " Cabeza de una casa menor al servicio de los Cunard. Especialista en combate marítimo, maniobras navales y despliegue en escenarios oceánicos. Coordinador principal de las flotas imperiales.",
+        "content_15": "10. Sir Oliviere Armstrong:",
+        "content_16": "La menor de la familia Armstrong y la incorporación más reciente. Especialista en armamento terrestre y tácticas pesadas de infantería mecanizada.",
+        "content_17": "11. Sir Violet Wryn:",
+        "content_18": " Heredera de la Casa Wryn, históricamente subordinada a la Casa Lovelace. Especialista en combate cuerpo a cuerpo y enfrentamiento directo, siendo considerada una de las mejores duelistas del cuerpo.",
+        "content_19": "12. Sir Donovan Vickers:",
+        "content_20": "Miembro más joven de los Vickers y el más joven entre los Norland Knights. Especialista en armamento de larga distancia y sistemas de precisión."
       },
       "ascenso": {
         "title": "Ascenso dentro del cuerpo",
@@ -758,6 +768,7 @@
           "intro": "Es el método más peligroso y respetado, un vestigio controlado del combate por el poder que refleja la filosofía de competencia feroz del Imperio. Cualquier Norland Knight puede desafiar a un superior directo a un 'Juicio de Competencia'.",
           "regla": "El desafío debe ser presentado por escrito a la Mano de Plata, especificando el rango disputado y la naturaleza de la prueba. No puede ser caprichoso, debe basarse en una supuesta deficiencia del superior, como falta de destreza táctica, ineficiencia logística, o debilidad en su especialidad.",
           "tipos": {
+            "intro": "Tipos de Juicio:",
             "duelo": "Duelo de Guardianes: Un combate en un campo de pruebas. La victoria demuestra superioridad marcial directa.",
             "estrategia": "Prueba Estratégica: Los contendientes son encerrados en salas de simulación y deben resolver un escenario táctico complejo. Evalúa intelecto y frialdad analítica.",
             "voluntad": "Prueba de Voluntad: Una exposición simultánea y controlada a niveles críticos de vapor de Aevar, midiendo resistencia fisiológica y control mental. El primero en flaquear o mostrar signos de Marcadura pierde."
@@ -781,7 +792,7 @@
           "content_3": "A partir del quinto rango superior, un Knight no solo ejecuta órdenes, sino que puede ser consultado en la planificación de campañas menores o operaciones especiales dentro de su especialidad. Su experiencia se convierte en un recurso del Consejo de Guerra Imperial.",
           "content_4": "El privilegio más temido y anhelado. Los cinco Knights de mayor rango tienen el derecho de solicitar una audiencia privada con el Emperador Norland Reaventhorn, sin pasar por el Consejo Imperial ni la burocracia de las Casas. Es un acceso a la fuente misma del poder, un voto de confianza supremo que conlleva un riesgo igual de supremo, desperdiciar el tiempo del Emperador es un error que solo se comete una vez."
         },
-        "mano_plata": {
+        "mano": {
           "title": "Privilegios de la Mano de Plata",
           "content_1": "El ápice absoluto. Este Knight no tiene beneficios; es el beneficio personificado. Habla y actúa con la autoridad del Emperador cuando se le ordena. Tiene acceso ilimitado a cualquier recurso, cualquier secreto, cualquier instalación. Puede movilizar ejércitos enteros y dar órdenes a los patriarcas de las Casas Fundadoras en asuntos de seguridad imperial. Su identidad, oculta para todos, es el misterio más vigilado del Imperio. Su privilegio es ser la voluntad de Norland hecha carne y acero.",
           "content_2": "Sin ser esto suficiente la Mano de Plata posee otro beneficio único: el Dominio Personal de un Feudo. Puede elegir, con la aprobación final de Norland, cualquier territorio dentro de las fronteras imperiales que no sea la capital o un distrito capital de una Casa Fundadora. Este territorio, se convierte en su feudo personal, libre del control directo de cualquier Casa. Allí, su palabra es ley. Puede reorganizar su economía, establecer sus propias guarniciones de Guardianes leales solo a él, y dirigir la producción hacia sus proyectos personales o los designios secretos del Emperador. Es un micro-imperio dentro del Imperio, un laboratorio de poder donde la voluntad de la Mano de Plata se prueba sin intermediarios. Este feudo no es hereditario; es una extensión de su cargo. A su muerte o destitución, el territorio y sus activos son reabsorbidos por la Corona Imperial, purgados y reasignados."
