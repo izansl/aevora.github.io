@@ -365,7 +365,7 @@
       },
       "comercio": {
         "title": "Internal and External Trade",
-        "interiror_title": "Internal Trade",
+        "interior_title": "Internal Trade",
         "interior_p1": "Within the Empire's borders, trade is not an exchange, but a logistical redistribution. The concept of a free market does not exist. Instead, there is a constant and regulated flow of resources from extraction and production points towards consumption centres and the High Columns.",
         "interior_p2": "This flow is governed by three unbreakable principles:",
         "interior_p3": "Distribution by Decree: Quotas of food, raw materials, spare parts, and manufactured goods are decided by the Imperial Economy Council. A mining district receives so many rations and such a type of machinery, not according to what it needs, but according to what the Central Plan determines as optimal for general production.",

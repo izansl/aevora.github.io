@@ -188,7 +188,7 @@
     },
     "amanecer": {
       "title": "Un Nuevo Amanecer",
-      "nueva-era": {
+      "era": {
         "title": "Una Nueva Era empieza",
         "content_1": "La madrugada del 22 de octubre de 1868 encontró a Inglaterra inmersa en un silencio extraño, casi antinatural. El humo que aún ascendía desde los restos carbonizados de varios edificios de Londres se mezclaba con una niebla espesa que oscurecía los tejados. Era un amanecer gris, pesado, como si la propia ciudad contuviera la respiración esperando ser redefinida.",
         "content_2": "A esa hora temprana, los primeros comunicados oficiales comenzaron a circular. Los periódicos bajo control de la Casa Ashmere ya estaban impresos antes incluso de que la mayoría de los ciudadanos saliera de sus hogares. Sus titulares no dejaban margen a la incertidumbre: los sucesos de la noche anterior era descritos como “la purga necesaria para un nuevo renacimiento”. La población, agotada por semanas de caos, apenas tuvo fuerzas para cuestionarlo; aceptó la explicación como un refugio frente al desconcierto.",
@@ -365,7 +365,7 @@
       },
       "comercio": {
         "title": "Comercio Interior y Exterior",
-        "interiror_title": "Comercio Interior",
+        "interior_title": "Comercio Interior",
         "interior_p1": "Dentro de las fronteras del Imperio, el comercio no es un intercambio, sino una redistribución logística. No existe el concepto de mercado libre. En su lugar, existe un flujo constante y regulado de recursos desde los puntos de extracción y producción hacia los centros de consumo y las Altas Columnas.",
         "interior_p2": "Este flujo se rige por tres principios inquebrantables:",
         "interior_p3": "Distribución por Decreto: Las cuotas de alimentos, materias primas, repuestos y bienes manufacturados son decididas por el Consejo de Economía Imperial. Un distrito minero recibe tantas raciones y tal tipo de maquinaria, no según lo que necesite, sino según lo que el Plan Central determine como óptimo para la producción general.",
@@ -733,7 +733,7 @@
       "rangos": {
         "title": "Rangos",
         "content_1": "1. La Mano de Plata:",
-        "content_2": " Líder supremo de los Norland Knights y representante directo del Emperador. Actúa como autoridad máxima dentro del cuerpo y supervisa tanto las operaciones internas como la aplicación de órdenes imperiales. Su identidad real y su casa de procedencia se mantienen como información clasificada por razones de seguridad estratégica.",
+        "content_2": "Líder supremo de los Norland Knights y representante directo del Emperador. Actúa como autoridad máxima dentro del cuerpo y supervisa tanto las operaciones internas como la aplicación de órdenes imperiales. Su identidad real y su casa de procedencia se mantienen como información clasificada por razones de seguridad estratégica.",
         "content_3": "2. Unknown",
         "content_4": "3. Unknown",
         "content_5": "4. Unknown",
@@ -741,15 +741,15 @@
         "content_7": "6. Sir Cassian Lovelace:",
         "content_8": "Heredero de la Casa Lovelace. Especialista en operaciones encubiertas y eliminación quirúrgica de amenazas. Su papel dentro del cuerpo se centra en la infiltración, la obtención de información sensible y la neutralización de objetivos prioritarios.",
         "content_9": "7. Sir Magnus Pelwright:",
-        "content_10": " Heredero de la Casa Pelwright. Especialista en armamento químico y manipulación avanzada del Aevar. Supervisa proyectos relacionados con armas experimentales y protocolos de contención biológica.",
+        "content_10": "Heredero de la Casa Pelwright. Especialista en armamento químico y manipulación avanzada del Aevar. Supervisa proyectos relacionados con armas experimentales y protocolos de contención biológica.",
         "content_11": "8. Sir Seraphina Hale:",
         "content_12": "Procedencia desconocida. Especialista en armamento de asedio y despliegue táctico de artillería pesada. Su Guardian está adaptado para operaciones prolongadas y ataques de larga duración. Coordinadora principal de las tropas de asedio.",
         "content_13": "9. Sir Kael Moss:",
-        "content_14": " Cabeza de una casa menor al servicio de los Cunard. Especialista en combate marítimo, maniobras navales y despliegue en escenarios oceánicos. Coordinador principal de las flotas imperiales.",
+        "content_14": "Cabeza de una casa menor al servicio de los Cunard. Especialista en combate marítimo, maniobras navales y despliegue en escenarios oceánicos. Coordinador principal de las flotas imperiales.",
         "content_15": "10. Sir Oliviere Armstrong:",
         "content_16": "La menor de la familia Armstrong y la incorporación más reciente. Especialista en armamento terrestre y tácticas pesadas de infantería mecanizada.",
         "content_17": "11. Sir Violet Wryn:",
-        "content_18": " Heredera de la Casa Wryn, históricamente subordinada a la Casa Lovelace. Especialista en combate cuerpo a cuerpo y enfrentamiento directo, siendo considerada una de las mejores duelistas del cuerpo.",
+        "content_18": "Heredera de la Casa Wryn, históricamente subordinada a la Casa Lovelace. Especialista en combate cuerpo a cuerpo y enfrentamiento directo, siendo considerada una de las mejores duelistas del cuerpo.",
         "content_19": "12. Sir Donovan Vickers:",
         "content_20": "Miembro más joven de los Vickers y el más joven entre los Norland Knights. Especialista en armamento de larga distancia y sistemas de precisión."
       },
