@@ -1,4 +1,27 @@
 /* =========================================
+   0. CARGA DE FUENTES
+   ========================================= */
+@font-face {
+    font-family: 'AevoraTitle';
+    src: url('Fonts/Steamwreck-07pd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AevoraBody';
+    src: url('Fonts/OPTITimes-Roman.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AevoraBody';
+    src: url('Fonts/OPTITimesRoman-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+/* =========================================
    1. VARIABLES Y CONFIGURACIÓN
    ========================================= */
 :root {
@@ -37,7 +60,7 @@ html {
 }
 
 body {
-    font-family: Georgia, serif;
+    font-family: 'AevoraBody', 'Times New Roman', Times, serif;
     background: var(--bg-gradient);
     background-attachment: fixed;
     color: var(--text);
@@ -149,6 +172,7 @@ nav ul {
 }
 
 #language-selector {
+    font-family: 'AevoraTimes', 'Times New Roman', Times, serif;
     background: var(--bg-primary);
     color: var(--text);
     border: 1px solid var(--border);
@@ -418,6 +442,7 @@ section h2::after {
 /* Legibilidad para contenido general e intros */
 .modal-content p:not(.modal-subtitle),
 .modal-intro p {
+    font-family: 'AevoraTimes', 'Times New Roman', Times, serif;
     margin-bottom: 1.5rem;
     line-height: 1.8;
     font-size: 1.05rem;
