@@ -67,7 +67,7 @@ body {
 nav {
     background: rgba(22, 20, 17, 0.95);
     backdrop-filter: blur(5px);
-    padding: 1.5rem 3rem;
+    padding: 1rem 3rem; 
     position: fixed;
     top: 0;
     left: 0;
@@ -75,6 +75,10 @@ nav {
     z-index: 100;
     border-bottom: 2px solid var(--border);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
 }
 
 nav ul {
@@ -83,6 +87,8 @@ nav ul {
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
+    padding: 0;
+    margin: 0;
 }
 
 nav a {
@@ -103,6 +109,70 @@ nav a:hover {
     border-color: var(--accent-red);
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(140, 47, 47, 0.4);
+}
+
+/* =========================================
+   2. NAVEGACIÓN Y HEADER (MODIFICADO)
+   ========================================= */
+nav {
+    background: rgba(22, 20, 17, 0.95);
+    backdrop-filter: blur(5px);
+    padding: 1rem 3rem; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    border-bottom: 2px solid var(--border);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0;
+    margin: 0;
+}
+
+#lang-container {
+    position: absolute;
+    right: 3rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#language-selector {
+    background: var(--bg-primary);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: Georgia, serif;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    appearance: none; 
+    -webkit-appearance: none;
+    text-align: center;
+}
+
+#language-selector:hover {
+    background: var(--accent-red);
+    border-color: var(--accent-red);
+    box-shadow: 0 4px 8px rgba(140, 47, 47, 0.4);
+}
+
+#language-selector:focus {
+    outline: none;
+    border-color: var(--accent);
 }
 
 header {
@@ -334,12 +404,15 @@ section h2::after {
 
 .modal-content {
     background: var(--bg-gradient);
-    min-height: 100%;
-    padding: 5rem 10% 4rem;
-    border: none;
-    width: 100%;
-    animation: fadeIn 0.4s ease;
+    max-width: 1200px; 
+    width: 90%; 
+    margin: 5vh auto;
+    padding: 4rem 3rem; 
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    position: relative;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    animation: fadeIn 0.4s ease;
 }
 
 /* Legibilidad para contenido general e intros */
@@ -419,7 +492,8 @@ section h2::after {
 
 /* Estilos de Acordeón */
 .accordion {
-    max-width: 1000px;
+    width: 100%; 
+    max-width: 100%; 
     margin: 2rem auto;
 }
 

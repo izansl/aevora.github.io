@@ -26,33 +26,24 @@ class LanguageManager {
     }
 
     createLanguageSelector() {
-        const nav = document.querySelector('nav ul');
-        if (!nav) return; // Si no encuentra el menú, no hace nada
+            const container = document.getElementById('lang-container');
+            if (!container) return;
 
-        // Evitar duplicar el selector si ya existe
-        if (document.getElementById('language-selector-li')) return;
+            if (document.getElementById('language-selector')) return;
 
-        const langSelector = document.createElement('li');
-        langSelector.id = 'language-selector-li';
-        langSelector.innerHTML = `
-            <select id="language-selector" style="
-                background: var(--bg-primary, #333); 
-                color: var(--text, #fff);
-                border: 1px solid var(--border, #555);
-                padding: 0.5rem 1rem;
-                border-radius: 4px;
-                cursor: pointer;
-                font-family: Georgia, serif;
-            ">
-                <option value="es" ${this.currentLang === 'es' ? 'selected' : ''}>Español</option>
-                <option value="en" ${this.currentLang === 'en' ? 'selected' : ''}>English</option>
-            </select>
-        `;
-        nav.appendChild(langSelector);
+            const select = document.createElement('select');
+            select.id = 'language-selector';
+            
+            select.innerHTML = `
+                <option value="es" ${this.currentLang === 'es' ? 'selected' : ''}>ES</option>
+                <option value="en" ${this.currentLang === 'en' ? 'selected' : ''}>EN</option>
+            `;
 
-        document.getElementById('language-selector').addEventListener('change', (e) => {
-            this.changeLanguage(e.target.value);
-        });
+            container.appendChild(select);
+
+            select.addEventListener('change', (e) => {
+                this.changeLanguage(e.target.value);
+            });
     }
 
     async changeLanguage(lang) {
