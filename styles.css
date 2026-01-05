@@ -582,6 +582,7 @@ section h2::after {
 .accordion-item.active .accordion-body {
     max-height: 5000px;
     padding-bottom: 2rem;
+    padding-top: 2rem;
     transition: max-height 1s ease-in-out;
 }
 
